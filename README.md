@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/eaad5b9b-047a-444e-bbb2-1194b89d5a08)
+
 ## Hi there 👋, I am Ben Darlington but my friends and followers call me Dark Firebeard!
 
 - 🔭 I’m currently working on Learning resources for training people in various sections of computer science.
