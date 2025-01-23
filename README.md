@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3ad009e3-7603-4b72-8eaa-e8794358bfbe)
+![image](https://github.com/user-attachments/assets/53bddcb9-4ba9-46d4-aafc-69bc20f9185b)
+
 
 
 ## Hi there 👋, I am Ben Darlington but my friends and followers call me Dark Firebeard!
