@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Ben Darlington but my friends and followers call me Dark Firebeard!
 
 - 🔭 I’m currently working on Learning resources for training people in various sections of computer science.
 - 🌱 I’m currently learning how corrupt most online resource providers are.
