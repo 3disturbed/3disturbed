@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Learning resouces for training people in various sections of computer science.
+- 🔭 I’m currently working on Learning resources for training people in various sections of computer science.
 - 🌱 I’m currently learning how corrupt most online resource providers are.
 - 👯 I’m looking to collaborate on changing this!
 - 🤔 I’m looking for help with learning material suggestions.
